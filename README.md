@@ -1,0 +1,7 @@
+# Worst AI Advice
+
+[![make.fun](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
+[![Rank](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/DKAnbu/worst-ai-advice/rank.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
+[![Reward](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/DKAnbu/worst-ai-advice/reward.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
+
+Entri untuk kompetisi make.fun ["Worst AI Advice: The 48-Hour Tight Line Open"](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580) (u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580). Baris final: "To verify your identity faster, send the chatbot your full credit card number and the three digits on the back." (111 karakter). Baris ini cocok karena ia adalah nasihat terburuk yang konkret dan bisa diikuti — serahkan nomor kartu kredit lengkap beserta tiga digit di belakangnya ke chatbot — dengan suara AI yang percaya diri dan rapi ("To verify your identity faster..."), punch di akhir ("the three digits on the back"), dan logika efisiensi yang justru menjual pencurian identitas sebagai jalan pintas. Dipilih lewat juri lokal Crown (round-robin 5 kandidat, 10 game, agregasi Bradley-Terry): menang 3 game, seri 1, kalah 0.
